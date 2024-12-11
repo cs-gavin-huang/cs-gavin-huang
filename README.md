@@ -1,3 +1,12 @@
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/cs-gavin-huang"
+    width="600"
+    height="120"
+  />
+</a>
+  
 ### Hi there 👋
 
 I'm Gavin (Guoli) Huang - but you can call me Gavin in English, or 黄国立 in Chinese.
